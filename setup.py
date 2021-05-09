@@ -15,7 +15,7 @@ LONG_DESCRIPTION = 'A package that allows you to easily create,read and remove f
 setup(
     name="fstream",
     version=VERSION,
-    author="DS_Stift007 (Ahmad Yosef)",
+    author="DS_Stift007",
     author_email="dsstift@icloud.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
